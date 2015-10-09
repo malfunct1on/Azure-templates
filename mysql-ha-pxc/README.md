@@ -2,4 +2,4 @@
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-This template lets you create a 3 node Behind a load balancer in a vnet.  It's tested on Ubuntu 12.04 LTS and CentOS 6.5. 
+This template lets you create a 3 node Behind a load balancer in a vnet.  It's tested on Ubuntu 14.04 LTS, 12.04 LTS and CentOS 6.5. 
