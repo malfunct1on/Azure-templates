@@ -2,4 +2,4 @@
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-This template lets you create a 3 node Percona XtraDB Cluster 5.6 on Azure.  It's tested on Ubuntu 12.04 LTS and CentOS 6.5.  To verify the cluster, type in "mysql -h <dnsname> -u test -p".  MySQL queries will be load balanced to the cluster nodes. 
+This template lets you create a 3 node Behind a load balancer in a vnet.  It's tested on Ubuntu 12.04 LTS and CentOS 6.5. 
