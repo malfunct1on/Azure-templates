@@ -120,7 +120,7 @@
     },
     "imageSKU": {
       "type": "string",
-      "defaultValue": "6.5",
+      "defaultValue": "14.04.3-LTS",
       "allowedValues": [
         "6.5",
         "12.04.5-LTS",
@@ -210,14 +210,14 @@
     },
     "customScriptFilePath": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/azure/azure-quickstart-templates/master/mysql-ha-pxc/azurepxc.sh",
+      "defaultValue": "https://raw.githubusercontent.com/malfunct1on/azure-quickstart-templates/master/mysql-ha-pxc/azurepxc.sh",
       "metadata": {
         "description": "bash file location to configure the cluster"
       }
     },
     "mysqlConfigFilePath": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/azure/azure-quickstart-templates/master/mysql-ha-pxc/my.cnf.template",
+      "defaultValue": "https://raw.githubusercontent.com/malfunct1on/azure-quickstart-templates/master/mysql-ha-pxc/my.cnf.template",
       "metadata": {
         "description": "my.cnf file location"
       }
