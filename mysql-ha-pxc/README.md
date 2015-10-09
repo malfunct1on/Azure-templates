@@ -1,4 +1,4 @@
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/malfunct1on/azure-quickstart-templates/tree/master/mysql-ha-pxc/azuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmalfunct1on%2Fazure-quickstart-templates%2Fmaster%2Fmysql-ha-pxc%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
